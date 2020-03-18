@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Sling Drifter Assets/Scenes/MainMenu.unity
+    path: Assets/Scenes/MainMenu.unity
     guid: a18d2e71e8df01f4b9c01020c9883fff
   m_configObjects: {}
